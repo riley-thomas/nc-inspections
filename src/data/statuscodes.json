@@ -1,0 +1,82 @@
+[
+  {
+    "status_code": "A",
+    "status_description": "Active, Open "
+  },
+  {
+    "status_code": "B",
+    "status_description": "Valid Permit, seasonal close "
+  },
+  {
+    "status_code": "C",
+    "status_description": "Valid Permit, not open unknown"
+  },
+  {
+    "status_code": "D",
+    "status_description": "State suspended, non-payment of fees"
+  },
+  {
+    "status_code": "E",
+    "status_description": "Suspended, rule violation"
+  },
+  {
+    "status_code": "F",
+    "status_description": "Transitional permit expired"
+  },
+  {
+    "status_code": "G",
+    "status_description": "Permit revoked, closed"
+  },
+  {
+    "status_code": "H",
+    "status_description": "Permit invalid, out of business"
+  },
+  {
+    "status_code": "I",
+    "status_description": "New Establishment, Open"
+  },
+  {
+    "status_code": "J",
+    "status_description": "Non-use of permit"
+  },
+  {
+    "status_code": "K",
+    "status_description": "Full Permit Issued from Transitional"
+  },
+  {
+    "status_code": "L",
+    "status_description": "Change ownership, not Superior"
+  },
+  {
+    "status_code": "M",
+    "status_description": "Administrative, Mail Returned"
+  },
+  {
+    "status_code": "Q",
+    "status_description": "Valid Permit, seasonal reopen denied"
+  },
+  {
+    "status_code": "S",
+    "status_description": "Services for the Blind exempt from fee"
+  },
+  {
+    "status_code": "T",
+    "status_description": "Transitional, Permit Issued"
+  },
+  {
+    "status_code": "U",
+    "status_description": "Operating with Transitional Permit"
+  },
+  {
+    "status_code": "W",
+    "status_description": "Intent to suspend issued "
+  },
+  {
+    "status_code": "X",
+    "status_description": "Administrative stop billing"
+  },
+  {
+    "status_code": "Z",
+    "status_description": "Adminstrative error"
+  }
+]

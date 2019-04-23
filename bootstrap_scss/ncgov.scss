@@ -1,0 +1,7 @@
+//run scss --sourcemap=none ncgov.scss ..\src\css\nc.css
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';

@@ -1,0 +1,142 @@
+/*****************
+ *  BETS MISC
+ ****************/
+.content {
+	margin-top: 75px;
+	margin-bottom: 50px;
+}
+
+/*****************
+ *  BETS STATUS
+ ****************/
+.status {
+	border-radius: 0px;
+}
+.status_green {
+	background-color:green;
+	color: white;
+}
+.status_red {
+	background-color:red;
+	color: white;
+}
+.status_yellow {
+	background-color:yellow;
+	color: grey;
+}
+.status_grey {
+	background-color:grey;
+	color: white;
+}
+
+.grade {
+    border-radius: 75%;
+    padding: 2px 12px;
+}
+.grade_A {
+	background-color:green;
+	color: white;
+}
+.grade_B {
+	background-color:yellow;
+	color: grey;
+}
+.grade_C {
+	background-color:orange;
+	color: white;
+}
+.grade_D {
+	background-color:red;
+	color: white;
+}
+
+/*****************
+ *  CALLOUTS
+ ****************/
+.bs-callout {
+  margin: 20px 0;
+  padding: 15px 30px 15px 15px;
+  border-left: 5px solid #eee;
+}
+.bs-callout a {
+  color:inherit;
+  text-decoration: underline;
+}
+.bs-callout h1,
+.bs-callout h2,
+.bs-callout h3,
+.bs-callout h4,
+.bs-callout h5,
+.bs-callout h6 {
+margin-top: 0;
+}
+
+.bs-callout-danger h1,
+.bs-callout-danger h2,
+.bs-callout-danger h3,
+.bs-callout-danger h4,
+.bs-callout-danger h5,
+.bs-callout-danger h6 {
+color: #B94A48;
+}
+
+.bs-callout-warning h1,
+.bs-callout-warning h2,
+.bs-callout-warning h3,
+.bs-callout-warning h4,
+.bs-callout-warning h5,
+.bs-callout-warning h6 {
+color: #C09853;
+}
+
+.bs-callout-info h1,
+.bs-callout-info h2,
+.bs-callout-info h3,
+.bs-callout-info h4,
+.bs-callout-info h5,
+.bs-callout-info h6 {
+color: #3A87AD;
+}
+
+.bs-callout-success h1,
+.bs-callout-success h2,
+.bs-callout-success h3,
+.bs-callout-success h4,
+.bs-callout-success h5,
+.bs-callout-success h6 {
+color: #3C763D;
+}
+
+.bs-callout p:last-child {
+margin-bottom: 0;
+}
+
+.bs-callout .dl-horizontal{
+  margin-bottom: 0px;
+}
+
+.bs-callout code, .bs-callout .highlight {
+background-color: #fff;
+}
+
+.bs-callout-danger {
+background-color: #fcf2f2;
+border-color: #dFb5b4;
+}
+.bs-callout-warning {
+background-color: #fefbed;
+border-color: #f1e7bc;
+}
+.bs-callout-info {
+background-color: #f0f7fd;
+border-color: #d0e3f0;
+}
+.bs-callout-success {
+background-color: #dff0d8;
+border-color: #d6e9c6;
+}
+
+.bs-callout-default {
+  border: 1px solid #eee;
+  border-left: 5px solid #eee;
+}

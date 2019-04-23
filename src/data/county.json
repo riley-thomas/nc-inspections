@@ -1,0 +1,1602 @@
+[
+    {
+        "bets_county_code": "001",
+        "fips_county_code": "001",
+        "facilityCount": 4093,
+        "facility_count": 4093,
+        "glbl_county": {
+            "fips_county_code": "001",
+            "fips_county_desc": "Alamance",
+            "lat_max": "36.27006133",
+            "lat_min": "35.82329509",
+            "long_max": "-79.21676437",
+            "long_min": "-79.56242627",
+            "region_id": "8",
+            "state_county_code": "01"
+        }
+    },
+    {
+        "bets_county_code": "002",
+        "fips_county_code": "003",
+        "facilityCount": 391,
+        "facility_count": 391,
+        "glbl_county": {
+            "fips_county_code": "003",
+            "fips_county_desc": "Alexander",
+            "lat_max": "36.06572483",
+            "lat_min": "35.7590014",
+            "long_max": "-80.98374213",
+            "long_min": "-81.36402073",
+            "region_id": "3",
+            "state_county_code": "02"
+        }
+    },
+    {
+        "bets_county_code": "003",
+        "fips_county_code": "005",
+        "facilityCount": 543,
+        "facility_count": 543,
+        "glbl_county": {
+            "fips_county_code": "005",
+            "fips_county_desc": "Alleghany",
+            "lat_max": "36.59489167",
+            "lat_min": "36.34099937",
+            "long_max": "-80.8815044",
+            "long_min": "-81.37345146",
+            "region_id": "8",
+            "state_county_code": "03"
+        }
+    },
+    {
+        "bets_county_code": "004",
+        "fips_county_code": "007",
+        "facilityCount": 386,
+        "facility_count": 386,
+        "glbl_county": {
+            "fips_county_code": "007",
+            "fips_county_desc": "Anson",
+            "lat_max": "35.23112718",
+            "lat_min": "34.78671155",
+            "long_max": "-79.82856838",
+            "long_min": "-80.34046507",
+            "region_id": "2",
+            "state_county_code": "04"
+        }
+    },
+    {
+        "bets_county_code": "005",
+        "fips_county_code": "009",
+        "facilityCount": 860,
+        "facility_count": 860,
+        "glbl_county": {
+            "fips_county_code": "009",
+            "fips_county_desc": "Ashe",
+            "lat_max": "36.60840757",
+            "lat_min": "36.2201194",
+            "long_max": "-81.22408521",
+            "long_min": "-81.76187863",
+            "region_id": "8",
+            "state_county_code": "05"
+        }
+    },
+    {
+        "bets_county_code": "006",
+        "fips_county_code": "011",
+        "facilityCount": 709,
+        "facility_count": 709,
+        "glbl_county": {
+            "fips_county_code": "011",
+            "fips_county_desc": "Avery",
+            "lat_max": "36.30715457",
+            "lat_min": "35.89132624",
+            "long_max": "-81.71541579",
+            "long_min": "-82.10107352",
+            "region_id": "1",
+            "state_county_code": "06"
+        }
+    },
+    {
+        "bets_county_code": "007",
+        "fips_county_code": "013",
+        "facilityCount": 1441,
+        "facility_count": 1441,
+        "glbl_county": {
+            "fips_county_code": "013",
+            "fips_county_desc": "Beaufort",
+            "lat_max": "35.75940638",
+            "lat_min": "35.19568489",
+            "long_max": "-76.44743292",
+            "long_min": "-77.21515182",
+            "region_id": "6",
+            "state_county_code": "07"
+        }
+    },
+    {
+        "bets_county_code": "008",
+        "fips_county_code": "015",
+        "facilityCount": 469,
+        "facility_count": 469,
+        "glbl_county": {
+            "fips_county_code": "015",
+            "fips_county_desc": "Bertie",
+            "lat_max": "36.26650294",
+            "lat_min": "35.79168109",
+            "long_max": "-76.58633546",
+            "long_min": "-77.3478638",
+            "region_id": "6",
+            "state_county_code": "08"
+        }
+    },
+    {
+        "bets_county_code": "009",
+        "fips_county_code": "017",
+        "facilityCount": 799,
+        "facility_count": 799,
+        "glbl_county": {
+            "fips_county_code": "017",
+            "fips_county_desc": "Bladen",
+            "lat_max": "34.87676197",
+            "lat_min": "34.3465003",
+            "long_max": "-78.15685429",
+            "long_min": "-78.92198434",
+            "region_id": "2",
+            "state_county_code": "09"
+        }
+    },
+    {
+        "bets_county_code": "010",
+        "fips_county_code": "019",
+        "facilityCount": 2589,
+        "facility_count": 2589,
+        "glbl_county": {
+            "fips_county_code": "019",
+            "fips_county_desc": "Brunswick",
+            "lat_max": "34.39177054",
+            "lat_min": "33.81436195",
+            "long_max": "-77.91090548",
+            "long_min": "-78.67072905",
+            "region_id": "7",
+            "state_county_code": "10"
+        }
+    },
+    {
+        "bets_county_code": "011",
+        "fips_county_code": "021",
+        "facilityCount": 7160,
+        "facility_count": 7160,
+        "glbl_county": {
+            "fips_county_code": "021",
+            "fips_county_desc": "Buncombe",
+            "lat_max": "35.84398231",
+            "lat_min": "35.39650808",
+            "long_max": "-82.14848588",
+            "long_min": "-82.90836592",
+            "region_id": "1",
+            "state_county_code": "11"
+        }
+    },
+    {
+        "bets_county_code": "012",
+        "fips_county_code": "023",
+        "facilityCount": 1524,
+        "facility_count": 1524,
+        "glbl_county": {
+            "fips_county_code": "023",
+            "fips_county_desc": "Burke",
+            "lat_max": "36.01966069",
+            "lat_min": "35.53799717",
+            "long_max": "-81.34382166",
+            "long_min": "-82.00702215",
+            "region_id": "1",
+            "state_county_code": "12"
+        }
+    },
+    {
+        "bets_county_code": "013",
+        "fips_county_code": "025",
+        "facilityCount": 3319,
+        "facility_count": 3319,
+        "glbl_county": {
+            "fips_county_code": "025",
+            "fips_county_desc": "Cabarrus",
+            "lat_max": "35.52727706",
+            "lat_min": "35.1650714",
+            "long_max": "-80.27545554",
+            "long_min": "-80.80678203",
+            "region_id": "3",
+            "state_county_code": "13"
+        }
+    },
+    {
+        "bets_county_code": "014",
+        "fips_county_code": "027",
+        "facilityCount": 1506,
+        "facility_count": 1506,
+        "glbl_county": {
+            "fips_county_code": "027",
+            "fips_county_desc": "Caldwell",
+            "lat_max": "36.14250509",
+            "lat_min": "35.7371021",
+            "long_max": "-81.30839191",
+            "long_min": "-81.83022721",
+            "region_id": "1",
+            "state_county_code": "14"
+        }
+    },
+    {
+        "bets_county_code": "015",
+        "fips_county_code": "029",
+        "facilityCount": 118,
+        "facility_count": 118,
+        "glbl_county": {
+            "fips_county_code": "029",
+            "fips_county_desc": "Camden",
+            "lat_max": "36.57059188",
+            "lat_min": "36.07642422",
+            "long_max": "-75.86699175",
+            "long_min": "-76.56183455",
+            "region_id": "6",
+            "state_county_code": "15"
+        }
+    },
+    {
+        "bets_county_code": "016",
+        "fips_county_code": "031",
+        "facilityCount": 3339,
+        "facility_count": 3339,
+        "glbl_county": {
+            "fips_county_code": "031",
+            "fips_county_desc": "Carteret",
+            "lat_max": "35.22097496",
+            "lat_min": "34.56127126",
+            "long_max": "-75.98681504",
+            "long_min": "-77.18763724",
+            "region_id": "7",
+            "state_county_code": "16"
+        }
+    },
+    {
+        "bets_county_code": "017",
+        "fips_county_code": "033",
+        "facilityCount": 331,
+        "facility_count": 331,
+        "glbl_county": {
+            "fips_county_code": "033",
+            "fips_county_desc": "Caswell",
+            "lat_max": "36.56192525",
+            "lat_min": "36.2222138",
+            "long_max": "-79.1179068",
+            "long_min": "-79.55200937",
+            "region_id": "8",
+            "state_county_code": "17"
+        }
+    },
+    {
+        "bets_county_code": "018",
+        "fips_county_code": "035",
+        "facilityCount": 4292,
+        "facility_count": 4292,
+        "glbl_county": {
+            "fips_county_code": "035",
+            "fips_county_desc": "Catawba",
+            "lat_max": "35.84924967",
+            "lat_min": "35.52788329",
+            "long_max": "-80.90527211",
+            "long_min": "-81.55346809",
+            "region_id": "3",
+            "state_county_code": "18"
+        }
+    },
+    {
+        "bets_county_code": "019",
+        "fips_county_code": "037",
+        "facilityCount": 1720,
+        "facility_count": 1720,
+        "glbl_county": {
+            "fips_county_code": "037",
+            "fips_county_desc": "Chatham",
+            "lat_max": "35.89667253",
+            "lat_min": "35.49492473",
+            "long_max": "-78.88629575",
+            "long_min": "-79.5760515",
+            "region_id": "5",
+            "state_county_code": "19"
+        }
+    },
+    {
+        "bets_county_code": "020",
+        "fips_county_code": "039",
+        "facilityCount": 881,
+        "facility_count": 881,
+        "glbl_county": {
+            "fips_county_code": "039",
+            "fips_county_desc": "Cherokee",
+            "lat_max": "35.31206866",
+            "lat_min": "34.96691786",
+            "long_max": "-83.67010801",
+            "long_min": "-84.34161489",
+            "region_id": "1",
+            "state_county_code": "20"
+        }
+    },
+    {
+        "bets_county_code": "021",
+        "fips_county_code": "041",
+        "facilityCount": 390,
+        "facility_count": 390,
+        "glbl_county": {
+            "fips_county_code": "041",
+            "fips_county_desc": "Chowan",
+            "lat_max": "36.37122216",
+            "lat_min": "35.95445882",
+            "long_max": "-76.37690774",
+            "long_min": "-76.75703656",
+            "region_id": "6",
+            "state_county_code": "21"
+        }
+    },
+    {
+        "bets_county_code": "022",
+        "fips_county_code": "043",
+        "facilityCount": 423,
+        "facility_count": 423,
+        "glbl_county": {
+            "fips_county_code": "043",
+            "fips_county_desc": "Clay",
+            "lat_max": "35.18102744",
+            "lat_min": "34.96654827",
+            "long_max": "-83.46325083",
+            "long_min": "-84.02563924",
+            "region_id": "1",
+            "state_county_code": "22"
+        }
+    },
+    {
+        "bets_county_code": "023",
+        "fips_county_code": "045",
+        "facilityCount": 3124,
+        "facility_count": 3124,
+        "glbl_county": {
+            "fips_county_code": "045",
+            "fips_county_desc": "Cleveland",
+            "lat_max": "35.60430787",
+            "lat_min": "35.14354393",
+            "long_max": "-81.30137688",
+            "long_min": "-81.78814356",
+            "region_id": "3",
+            "state_county_code": "23"
+        }
+    },
+    {
+        "bets_county_code": "024",
+        "fips_county_code": "047",
+        "facilityCount": 1956,
+        "facility_count": 1956,
+        "glbl_county": {
+            "fips_county_code": "047",
+            "fips_county_desc": "Columbus",
+            "lat_max": "34.50351252",
+            "lat_min": "33.92417882",
+            "long_max": "-78.14200316",
+            "long_min": "-79.09122324",
+            "region_id": "7",
+            "state_county_code": "24"
+        }
+    },
+    {
+        "bets_county_code": "025",
+        "fips_county_code": "049",
+        "facilityCount": 3271,
+        "facility_count": 3271,
+        "glbl_county": {
+            "fips_county_code": "049",
+            "fips_county_desc": "Craven",
+            "lat_max": "35.43906745",
+            "lat_min": "34.81113315",
+            "long_max": "-76.6035695",
+            "long_min": "-77.49384249",
+            "region_id": "6",
+            "state_county_code": "25"
+        }
+    },
+    {
+        "bets_county_code": "026",
+        "fips_county_code": "051",
+        "facilityCount": 8407,
+        "facility_count": 8407,
+        "glbl_county": {
+            "fips_county_code": "051",
+            "fips_county_desc": "Cumberland",
+            "lat_max": "35.28693221",
+            "lat_min": "34.81428538",
+            "long_max": "-78.47465014",
+            "long_min": "-79.13286635",
+            "region_id": "2",
+            "state_county_code": "26"
+        }
+    },
+    {
+        "bets_county_code": "027",
+        "fips_county_code": "053",
+        "facilityCount": 816,
+        "facility_count": 816,
+        "glbl_county": {
+            "fips_county_code": "053",
+            "fips_county_desc": "Currituck",
+            "lat_max": "36.57078195",
+            "lat_min": "36.00879832",
+            "long_max": "-75.74304444",
+            "long_min": "-76.33296657",
+            "region_id": "6",
+            "state_county_code": "27"
+        }
+    },
+    {
+        "bets_county_code": "028",
+        "fips_county_code": "055",
+        "facilityCount": 2240,
+        "facility_count": 2240,
+        "glbl_county": {
+            "fips_county_code": "055",
+            "fips_county_desc": "Dare",
+            "lat_max": "36.25149602",
+            "lat_min": "35.16916604",
+            "long_max": "-75.43997909",
+            "long_min": "-76.04733431",
+            "region_id": "6",
+            "state_county_code": "28"
+        }
+    },
+    {
+        "bets_county_code": "029",
+        "fips_county_code": "057",
+        "facilityCount": 3466,
+        "facility_count": 3466,
+        "glbl_county": {
+            "fips_county_code": "057",
+            "fips_county_desc": "Davidson",
+            "lat_max": "36.04680658",
+            "lat_min": "35.48405889",
+            "long_max": "-80.02322946",
+            "long_min": "-80.5078448",
+            "region_id": "8",
+            "state_county_code": "29"
+        }
+    },
+    {
+        "bets_county_code": "030",
+        "fips_county_code": "059",
+        "facilityCount": 825,
+        "facility_count": 825,
+        "glbl_county": {
+            "fips_county_code": "059",
+            "fips_county_desc": "Davie",
+            "lat_max": "36.08275163",
+            "lat_min": "35.72409977",
+            "long_max": "-80.3450887",
+            "long_min": "-80.72787896",
+            "region_id": "8",
+            "state_county_code": "30"
+        }
+    },
+    {
+        "bets_county_code": "031",
+        "fips_county_code": "061",
+        "facilityCount": 1608,
+        "facility_count": 1608,
+        "glbl_county": {
+            "fips_county_code": "061",
+            "fips_county_desc": "Duplin",
+            "lat_max": "35.21387451",
+            "lat_min": "34.68929783",
+            "long_max": "-77.63099064",
+            "long_min": "-78.22011936",
+            "region_id": "7",
+            "state_county_code": "31"
+        }
+    },
+    {
+        "bets_county_code": "032",
+        "fips_county_code": "063",
+        "facilityCount": 7006,
+        "facility_count": 7006,
+        "glbl_county": {
+            "fips_county_code": "063",
+            "fips_county_desc": "Durham",
+            "lat_max": "36.25914369",
+            "lat_min": "35.84311231",
+            "long_max": "-78.67882857",
+            "long_min": "-79.03646465",
+            "region_id": "5",
+            "state_county_code": "32"
+        }
+    },
+    {
+        "bets_county_code": "033",
+        "fips_county_code": "065",
+        "facilityCount": 1241,
+        "facility_count": 1241,
+        "glbl_county": {
+            "fips_county_code": "065",
+            "fips_county_desc": "Edgecombe",
+            "lat_max": "36.17453724",
+            "lat_min": "35.65734135",
+            "long_max": "-77.32241412",
+            "long_min": "-77.8484547",
+            "region_id": "5",
+            "state_county_code": "33"
+        }
+    },
+    {
+        "bets_county_code": "034",
+        "fips_county_code": "067",
+        "facilityCount": 7947,
+        "facility_count": 7947,
+        "glbl_county": {
+            "fips_county_code": "067",
+            "fips_county_desc": "Forsyth",
+            "lat_max": "36.2814182",
+            "lat_min": "35.95281926",
+            "long_max": "-80.01515056",
+            "long_min": "-80.53675283",
+            "region_id": "8",
+            "state_county_code": "34"
+        }
+    },
+    {
+        "bets_county_code": "035",
+        "fips_county_code": "069",
+        "facilityCount": 847,
+        "facility_count": 847,
+        "glbl_county": {
+            "fips_county_code": "069",
+            "fips_county_desc": "Franklin",
+            "lat_max": "36.2860969",
+            "lat_min": "35.79768019",
+            "long_max": "-77.98652274",
+            "long_min": "-78.56667028",
+            "region_id": "5",
+            "state_county_code": "35"
+        }
+    },
+    {
+        "bets_county_code": "036",
+        "fips_county_code": "071",
+        "facilityCount": 4322,
+        "facility_count": 4322,
+        "glbl_county": {
+            "fips_county_code": "071",
+            "fips_county_desc": "Gaston",
+            "lat_max": "35.43976309",
+            "lat_min": "35.12815573",
+            "long_max": "-80.9028327",
+            "long_min": "-81.47554683",
+            "region_id": "3",
+            "state_county_code": "36"
+        }
+    },
+    {
+        "bets_county_code": "037",
+        "fips_county_code": "073",
+        "facilityCount": 133,
+        "facility_count": 133,
+        "glbl_county": {
+            "fips_county_code": "073",
+            "fips_county_desc": "Gates",
+            "lat_max": "36.57198571",
+            "lat_min": "36.2760234",
+            "long_max": "-76.43384616",
+            "long_min": "-76.97041568",
+            "region_id": "6",
+            "state_county_code": "37"
+        }
+    },
+    {
+        "bets_county_code": "038",
+        "fips_county_code": "075",
+        "facilityCount": 340,
+        "facility_count": 340,
+        "glbl_county": {
+            "fips_county_code": "075",
+            "fips_county_desc": "Graham",
+            "lat_max": "35.48658792",
+            "lat_min": "35.19686726",
+            "long_max": "-83.56254031",
+            "long_min": "-84.05828058",
+            "region_id": "1",
+            "state_county_code": "38"
+        }
+    },
+    {
+        "bets_county_code": "039",
+        "fips_county_code": "077",
+        "facilityCount": 875,
+        "facility_count": 875,
+        "glbl_county": {
+            "fips_county_code": "077",
+            "fips_county_desc": "Granville",
+            "lat_max": "36.56229641",
+            "lat_min": "36.00154695",
+            "long_max": "-78.43337213",
+            "long_min": "-78.82760318",
+            "region_id": "5",
+            "state_county_code": "39"
+        }
+    },
+    {
+        "bets_county_code": "040",
+        "fips_county_code": "079",
+        "facilityCount": 435,
+        "facility_count": 435,
+        "glbl_county": {
+            "fips_county_code": "079",
+            "fips_county_desc": "Greene",
+            "lat_max": "35.6722894",
+            "lat_min": "35.32760052",
+            "long_max": "-77.45444187",
+            "long_min": "-77.84690566",
+            "region_id": "6",
+            "state_county_code": "40"
+        }
+    },
+    {
+        "bets_county_code": "041",
+        "fips_county_code": "081",
+        "facilityCount": 11513,
+        "facility_count": 11513,
+        "glbl_county": {
+            "fips_county_code": "081",
+            "fips_county_desc": "Guilford",
+            "lat_max": "36.27716139",
+            "lat_min": "35.87977584",
+            "long_max": "-79.51246732",
+            "long_min": "-80.06711907",
+            "region_id": "8",
+            "state_county_code": "41"
+        }
+    },
+    {
+        "bets_county_code": "042",
+        "fips_county_code": "083",
+        "facilityCount": 1431,
+        "facility_count": 1431,
+        "glbl_county": {
+            "fips_county_code": "083",
+            "fips_county_desc": "Halifax",
+            "lat_max": "36.53202332",
+            "lat_min": "35.98344268",
+            "long_max": "-77.21028539",
+            "long_min": "-78.02652274",
+            "region_id": "5",
+            "state_county_code": "42"
+        }
+    },
+    {
+        "bets_county_code": "043",
+        "fips_county_code": "085",
+        "facilityCount": 1902,
+        "facility_count": 1902,
+        "glbl_county": {
+            "fips_county_code": "085",
+            "fips_county_desc": "Harnett",
+            "lat_max": "35.60354037",
+            "lat_min": "35.17182808",
+            "long_max": "-78.51022184",
+            "long_min": "-79.2427303",
+            "region_id": "2",
+            "state_county_code": "43"
+        }
+    },
+    {
+        "bets_county_code": "044",
+        "fips_county_code": "087",
+        "facilityCount": 2479,
+        "facility_count": 2479,
+        "glbl_county": {
+            "fips_county_code": "087",
+            "fips_county_desc": "Haywood",
+            "lat_max": "35.81089788",
+            "lat_min": "35.27176024",
+            "long_max": "-82.72489748",
+            "long_min": "-83.27718295",
+            "region_id": "1",
+            "state_county_code": "44"
+        }
+    },
+    {
+        "bets_county_code": "045",
+        "fips_county_code": "089",
+        "facilityCount": 2469,
+        "facility_count": 2469,
+        "glbl_county": {
+            "fips_county_code": "089",
+            "fips_county_desc": "Henderson",
+            "lat_max": "35.51973355",
+            "lat_min": "35.12450173",
+            "long_max": "-82.24103204",
+            "long_min": "-82.76504542",
+            "region_id": "1",
+            "state_county_code": "45"
+        }
+    },
+    {
+        "bets_county_code": "046",
+        "fips_county_code": "091",
+        "facilityCount": 567,
+        "facility_count": 567,
+        "glbl_county": {
+            "fips_county_code": "091",
+            "fips_county_desc": "Hertford",
+            "lat_max": "36.56639374",
+            "lat_min": "36.21809104",
+            "long_max": "-76.66904776",
+            "long_min": "-77.22862212",
+            "region_id": "6",
+            "state_county_code": "46"
+        }
+    },
+    {
+        "bets_county_code": "047",
+        "fips_county_code": "093",
+        "facilityCount": 786,
+        "facility_count": 786,
+        "glbl_county": {
+            "fips_county_code": "093",
+            "fips_county_desc": "Hoke",
+            "lat_max": "35.23388459",
+            "lat_min": "34.81375789",
+            "long_max": "-79.0145642",
+            "long_min": "-79.47896759",
+            "region_id": "2",
+            "state_county_code": "47"
+        }
+    },
+    {
+        "bets_county_code": "048",
+        "fips_county_code": "095",
+        "facilityCount": 318,
+        "facility_count": 318,
+        "glbl_county": {
+            "fips_county_code": "095",
+            "fips_county_desc": "Hyde",
+            "lat_max": "35.72507124",
+            "lat_min": "35.03446337",
+            "long_max": "-75.73056538",
+            "long_min": "-76.65809612",
+            "region_id": "6",
+            "state_county_code": "48"
+        }
+    },
+    {
+        "bets_county_code": "049",
+        "fips_county_code": "097",
+        "facilityCount": 4134,
+        "facility_count": 4134,
+        "glbl_county": {
+            "fips_county_code": "097",
+            "fips_county_desc": "Iredell",
+            "lat_max": "36.07798733",
+            "lat_min": "35.4871912",
+            "long_max": "-80.67261185",
+            "long_min": "-81.1318809",
+            "region_id": "3",
+            "state_county_code": "49"
+        }
+    },
+    {
+        "bets_county_code": "050",
+        "fips_county_code": "099",
+        "facilityCount": 1718,
+        "facility_count": 1718,
+        "glbl_county": {
+            "fips_county_code": "099",
+            "fips_county_desc": "Jackson",
+            "lat_max": "35.54610999",
+            "lat_min": "34.9807873",
+            "long_max": "-82.89933647",
+            "long_min": "-83.38382128",
+            "region_id": "1",
+            "state_county_code": "50"
+        }
+    },
+    {
+        "bets_county_code": "051",
+        "fips_county_code": "101",
+        "facilityCount": 3969,
+        "facility_count": 3969,
+        "glbl_county": {
+            "fips_county_code": "101",
+            "fips_county_desc": "Johnston",
+            "lat_max": "35.83768019",
+            "lat_min": "35.23296513",
+            "long_max": "-78.04464182",
+            "long_min": "-78.72889249",
+            "region_id": "5",
+            "state_county_code": "51"
+        }
+    },
+    {
+        "bets_county_code": "052",
+        "fips_county_code": "103",
+        "facilityCount": 234,
+        "facility_count": 234,
+        "glbl_county": {
+            "fips_county_code": "103",
+            "fips_county_desc": "Jones",
+            "lat_max": "35.26263344",
+            "lat_min": "34.76005194",
+            "long_max": "-77.0295711",
+            "long_min": "-77.75049008",
+            "region_id": "6",
+            "state_county_code": "52"
+        }
+    },
+    {
+        "bets_county_code": "053",
+        "fips_county_code": "105",
+        "facilityCount": 1280,
+        "facility_count": 1280,
+        "glbl_county": {
+            "fips_county_code": "105",
+            "fips_county_desc": "Lee",
+            "lat_max": "35.64820413",
+            "lat_min": "35.28729204",
+            "long_max": "-78.95059304",
+            "long_min": "-79.37999416",
+            "region_id": "5",
+            "state_county_code": "53"
+        }
+    },
+    {
+        "bets_county_code": "054",
+        "fips_county_code": "107",
+        "facilityCount": 1895,
+        "facility_count": 1895,
+        "glbl_county": {
+            "fips_county_code": "107",
+            "fips_county_desc": "Lenoir",
+            "lat_max": "35.4468906",
+            "lat_min": "34.98768094",
+            "long_max": "-77.3708699",
+            "long_min": "-77.85428962",
+            "region_id": "6",
+            "state_county_code": "54"
+        }
+    },
+    {
+        "bets_county_code": "055",
+        "fips_county_code": "109",
+        "facilityCount": 1465,
+        "facility_count": 1465,
+        "glbl_county": {
+            "fips_county_code": "109",
+            "fips_county_desc": "Lincoln",
+            "lat_max": "35.59007227",
+            "lat_min": "35.37994871",
+            "long_max": "-80.91986289",
+            "long_min": "-81.557482",
+            "region_id": "3",
+            "state_county_code": "55"
+        }
+    },
+    {
+        "bets_county_code": "059",
+        "fips_county_code": "111",
+        "facilityCount": 1112,
+        "facility_count": 1112,
+        "glbl_county": {
+            "fips_county_code": "111",
+            "fips_county_desc": "McDowell",
+            "lat_max": "35.98001107",
+            "lat_min": "35.49795226",
+            "long_max": "-81.80230342",
+            "long_min": "-82.31511126",
+            "region_id": "1",
+            "state_county_code": "56"
+        }
+    },
+    {
+        "bets_county_code": "056",
+        "fips_county_code": "113",
+        "facilityCount": 1555,
+        "facility_count": 1555,
+        "glbl_county": {
+            "fips_county_code": "113",
+            "fips_county_desc": "Macon",
+            "lat_max": "35.35116289",
+            "lat_min": "34.9733011",
+            "long_max": "-83.08842043",
+            "long_min": "-83.75788522",
+            "region_id": "1",
+            "state_county_code": "57"
+        }
+    },
+    {
+        "bets_county_code": "057",
+        "fips_county_code": "115",
+        "facilityCount": 541,
+        "facility_count": 541,
+        "glbl_county": {
+            "fips_county_code": "115",
+            "fips_county_desc": "Madison",
+            "lat_max": "36.08599807",
+            "lat_min": "35.65807886",
+            "long_max": "-82.38862539",
+            "long_min": "-82.98309683",
+            "region_id": "1",
+            "state_county_code": "58"
+        }
+    },
+    {
+        "bets_county_code": "058",
+        "fips_county_code": "117",
+        "facilityCount": 596,
+        "facility_count": 596,
+        "glbl_county": {
+            "fips_county_code": "117",
+            "fips_county_desc": "Martin",
+            "lat_max": "36.09133817",
+            "lat_min": "35.63869826",
+            "long_max": "-76.7408417",
+            "long_min": "-77.42896271",
+            "region_id": "6",
+            "state_county_code": "59"
+        }
+    },
+    {
+        "bets_county_code": "060",
+        "fips_county_code": "119",
+        "facilityCount": 27018,
+        "facility_count": 27018,
+        "glbl_county": {
+            "fips_county_code": "119",
+            "fips_county_desc": "Mecklenburg",
+            "lat_max": "35.53818813",
+            "lat_min": "34.98164533",
+            "long_max": "-80.53026409",
+            "long_min": "-81.07787996",
+            "region_id": "3",
+            "state_county_code": "60"
+        }
+    },
+    {
+        "bets_county_code": "061",
+        "fips_county_code": "121",
+        "facilityCount": 373,
+        "facility_count": 373,
+        "glbl_county": {
+            "fips_county_code": "121",
+            "fips_county_desc": "Mitchell",
+            "lat_max": "36.17909361",
+            "lat_min": "35.8042057",
+            "long_max": "-81.95940044",
+            "long_min": "-82.43673323",
+            "region_id": "1",
+            "state_county_code": "61"
+        }
+    },
+    {
+        "bets_county_code": "062",
+        "fips_county_code": "123",
+        "facilityCount": 675,
+        "facility_count": 675,
+        "glbl_county": {
+            "fips_county_code": "123",
+            "fips_county_desc": "Montgomery",
+            "lat_max": "35.53141927",
+            "lat_min": "35.1170511",
+            "long_max": "-79.59429364",
+            "long_min": "-80.20298473",
+            "region_id": "2",
+            "state_county_code": "62"
+        }
+    },
+    {
+        "bets_county_code": "063",
+        "fips_county_code": "125",
+        "facilityCount": 2532,
+        "facility_count": 2532,
+        "glbl_county": {
+            "fips_county_code": "125",
+            "fips_county_desc": "Moore",
+            "lat_max": "35.53798777",
+            "lat_min": "35.02266301",
+            "long_max": "-79.0763267",
+            "long_min": "-79.78846464",
+            "region_id": "2",
+            "state_county_code": "63"
+        }
+    },
+    {
+        "bets_county_code": "064",
+        "fips_county_code": "127",
+        "facilityCount": 2610,
+        "facility_count": 2610,
+        "glbl_county": {
+            "fips_county_code": "127",
+            "fips_county_desc": "Nash",
+            "lat_max": "36.22263501",
+            "lat_min": "35.7078363",
+            "long_max": "-77.67801845",
+            "long_min": "-78.276903",
+            "region_id": "5",
+            "state_county_code": "64"
+        }
+    },
+    {
+        "bets_county_code": "065",
+        "fips_county_code": "129",
+        "facilityCount": 6253,
+        "facility_count": 6253,
+        "glbl_county": {
+            "fips_county_code": "129",
+            "fips_county_desc": "New Hanover",
+            "lat_max": "34.40926017",
+            "lat_min": "33.90874182",
+            "long_max": "-77.69311447",
+            "long_min": "-78.05001317",
+            "region_id": "7",
+            "state_county_code": "65"
+        }
+    },
+    {
+        "bets_county_code": "066",
+        "fips_county_code": "131",
+        "facilityCount": 421,
+        "facility_count": 421,
+        "glbl_county": {
+            "fips_county_code": "131",
+            "fips_county_desc": "Northampton",
+            "lat_max": "36.56731033",
+            "lat_min": "36.14494477",
+            "long_max": "-77.04610137",
+            "long_min": "-77.91991044",
+            "region_id": "5",
+            "state_county_code": "66"
+        }
+    },
+    {
+        "bets_county_code": "067",
+        "fips_county_code": "133",
+        "facilityCount": 4714,
+        "facility_count": 4714,
+        "glbl_county": {
+            "fips_county_code": "133",
+            "fips_county_desc": "Onslow",
+            "lat_max": "35.00450275",
+            "lat_min": "34.42044359",
+            "long_max": "-77.07648299",
+            "long_min": "-77.70592111",
+            "region_id": "7",
+            "state_county_code": "67"
+        }
+    },
+    {
+        "bets_county_code": "068",
+        "fips_county_code": "135",
+        "facilityCount": 2465,
+        "facility_count": 2465,
+        "glbl_county": {
+            "fips_county_code": "135",
+            "fips_county_desc": "Orange",
+            "lat_max": "36.26381646",
+            "lat_min": "35.84072836",
+            "long_max": "-78.93028546",
+            "long_min": "-79.28445909",
+            "region_id": "5",
+            "state_county_code": "68"
+        }
+    },
+    {
+        "bets_county_code": "069",
+        "fips_county_code": "137",
+        "facilityCount": 427,
+        "facility_count": 427,
+        "glbl_county": {
+            "fips_county_code": "137",
+            "fips_county_desc": "Pamlico",
+            "lat_max": "35.38015119",
+            "lat_min": "34.93055769",
+            "long_max": "-76.28348905",
+            "long_min": "-77.00753773",
+            "region_id": "6",
+            "state_county_code": "69"
+        }
+    },
+    {
+        "bets_county_code": "070",
+        "fips_county_code": "139",
+        "facilityCount": 1207,
+        "facility_count": 1207,
+        "glbl_county": {
+            "fips_county_code": "139",
+            "fips_county_desc": "Pasquotank",
+            "lat_max": "36.53063474",
+            "lat_min": "36.0396014",
+            "long_max": "-76.00239092",
+            "long_min": "-76.51151638",
+            "region_id": "6",
+            "state_county_code": "70"
+        }
+    },
+    {
+        "bets_county_code": "071",
+        "fips_county_code": "141",
+        "facilityCount": 883,
+        "facility_count": 883,
+        "glbl_county": {
+            "fips_county_code": "141",
+            "fips_county_desc": "Pender",
+            "lat_max": "34.75227969",
+            "lat_min": "34.27262743",
+            "long_max": "-77.49819847",
+            "long_min": "-78.29223002",
+            "region_id": "7",
+            "state_county_code": "71"
+        }
+    },
+    {
+        "bets_county_code": "072",
+        "fips_county_code": "143",
+        "facilityCount": 280,
+        "facility_count": 280,
+        "glbl_county": {
+            "fips_county_code": "143",
+            "fips_county_desc": "Perquimans",
+            "lat_max": "36.39805217",
+            "lat_min": "35.99885002",
+            "long_max": "-76.13797826",
+            "long_min": "-76.60958124",
+            "region_id": "6",
+            "state_county_code": "72"
+        }
+    },
+    {
+        "bets_county_code": "073",
+        "fips_county_code": "145",
+        "facilityCount": 918,
+        "facility_count": 918,
+        "glbl_county": {
+            "fips_county_code": "145",
+            "fips_county_desc": "Person",
+            "lat_max": "36.56209276",
+            "lat_min": "36.21594039",
+            "long_max": "-78.77496396",
+            "long_min": "-79.17366818",
+            "region_id": "5",
+            "state_county_code": "73"
+        }
+    },
+    {
+        "bets_county_code": "074",
+        "fips_county_code": "147",
+        "facilityCount": 4211,
+        "facility_count": 4211,
+        "glbl_county": {
+            "fips_county_code": "147",
+            "fips_county_desc": "Pitt",
+            "lat_max": "35.85289819",
+            "lat_min": "35.3079734",
+            "long_max": "-77.06482355",
+            "long_min": "-77.72059937",
+            "region_id": "6",
+            "state_county_code": "74"
+        }
+    },
+    {
+        "bets_county_code": "075",
+        "fips_county_code": "149",
+        "facilityCount": 854,
+        "facility_count": 854,
+        "glbl_county": {
+            "fips_county_code": "149",
+            "fips_county_desc": "Polk",
+            "lat_max": "35.42913452",
+            "lat_min": "35.16510194",
+            "long_max": "-81.94278227",
+            "long_min": "-82.37928895",
+            "region_id": "1",
+            "state_county_code": "75"
+        }
+    },
+    {
+        "bets_county_code": "076",
+        "fips_county_code": "151",
+        "facilityCount": 3017,
+        "facility_count": 3017,
+        "glbl_county": {
+            "fips_county_code": "151",
+            "fips_county_desc": "Randolph",
+            "lat_max": "35.94090947",
+            "lat_min": "35.4857966",
+            "long_max": "-79.52167149",
+            "long_min": "-80.08723986",
+            "region_id": "8",
+            "state_county_code": "76"
+        }
+    },
+    {
+        "bets_county_code": "077",
+        "fips_county_code": "153",
+        "facilityCount": 1522,
+        "facility_count": 1522,
+        "glbl_county": {
+            "fips_county_code": "153",
+            "fips_county_desc": "Richmond",
+            "lat_max": "35.20378287",
+            "lat_min": "34.78491852",
+            "long_max": "-79.43896759",
+            "long_min": "-80.09560617",
+            "region_id": "2",
+            "state_county_code": "77"
+        }
+    },
+    {
+        "bets_county_code": "078",
+        "fips_county_code": "155",
+        "facilityCount": 3692,
+        "facility_count": 3692,
+        "glbl_county": {
+            "fips_county_code": "155",
+            "fips_county_desc": "Robeson",
+            "lat_max": "34.97367561",
+            "lat_min": "34.27922064",
+            "long_max": "-78.78548286",
+            "long_min": "-79.48143401",
+            "region_id": "2",
+            "state_county_code": "78"
+        }
+    },
+    {
+        "bets_county_code": "079",
+        "fips_county_code": "157",
+        "facilityCount": 2704,
+        "facility_count": 2704,
+        "glbl_county": {
+            "fips_county_code": "157",
+            "fips_county_desc": "Rockingham",
+            "lat_max": "36.56273076",
+            "lat_min": "36.22140483",
+            "long_max": "-79.49074076",
+            "long_min": "-80.05515056",
+            "region_id": "8",
+            "state_county_code": "79"
+        }
+    },
+    {
+        "bets_county_code": "080",
+        "fips_county_code": "159",
+        "facilityCount": 3853,
+        "facility_count": 3853,
+        "glbl_county": {
+            "fips_county_code": "159",
+            "fips_county_desc": "Rowan",
+            "lat_max": "35.8834263",
+            "lat_min": "35.48193779",
+            "long_max": "-80.16298473",
+            "long_min": "-80.79166874",
+            "region_id": "3",
+            "state_county_code": "80"
+        }
+    },
+    {
+        "bets_county_code": "081",
+        "fips_county_code": "161",
+        "facilityCount": 1814,
+        "facility_count": 1814,
+        "glbl_county": {
+            "fips_county_code": "161",
+            "fips_county_desc": "Rutherford",
+            "lat_max": "35.6321074",
+            "lat_min": "35.16061694",
+            "long_max": "-81.67183062",
+            "long_min": "-82.3003347",
+            "region_id": "1",
+            "state_county_code": "81"
+        }
+    },
+    {
+        "bets_county_code": "082",
+        "fips_county_code": "163",
+        "facilityCount": 1047,
+        "facility_count": 1047,
+        "glbl_county": {
+            "fips_county_code": "163",
+            "fips_county_desc": "Sampson",
+            "lat_max": "35.33511195",
+            "lat_min": "34.53358614",
+            "long_max": "-78.09295491",
+            "long_min": "-78.69239513",
+            "region_id": "2",
+            "state_county_code": "82"
+        }
+    },
+    {
+        "bets_county_code": "083",
+        "fips_county_code": "165",
+        "facilityCount": 741,
+        "facility_count": 741,
+        "glbl_county": {
+            "fips_county_code": "165",
+            "fips_county_desc": "Scotland",
+            "lat_max": "35.06303005",
+            "lat_min": "34.61043059",
+            "long_max": "-79.31052239",
+            "long_min": "-79.7081951",
+            "region_id": "2",
+            "state_county_code": "83"
+        }
+    },
+    {
+        "bets_county_code": "084",
+        "fips_county_code": "167",
+        "facilityCount": 1446,
+        "facility_count": 1446,
+        "glbl_county": {
+            "fips_county_code": "167",
+            "fips_county_desc": "Stanly",
+            "lat_max": "35.52405889",
+            "lat_min": "35.1224559",
+            "long_max": "-80.03116261",
+            "long_min": "-80.52629573",
+            "region_id": "3",
+            "state_county_code": "84"
+        }
+    },
+    {
+        "bets_county_code": "085",
+        "fips_county_code": "169",
+        "facilityCount": 811,
+        "facility_count": 811,
+        "glbl_county": {
+            "fips_county_code": "169",
+            "fips_county_desc": "Stokes",
+            "lat_max": "36.57059827",
+            "lat_min": "36.23716139",
+            "long_max": "-80.00727337",
+            "long_min": "-80.47177266",
+            "region_id": "8",
+            "state_county_code": "85"
+        }
+    },
+    {
+        "bets_county_code": "086",
+        "fips_county_code": "171",
+        "facilityCount": 2353,
+        "facility_count": 2353,
+        "glbl_county": {
+            "fips_county_code": "171",
+            "fips_county_desc": "Surry",
+            "lat_max": "36.58239264",
+            "lat_min": "36.21637009",
+            "long_max": "-80.41988863",
+            "long_min": "-80.99371474",
+            "region_id": "8",
+            "state_county_code": "86"
+        }
+    },
+    {
+        "bets_county_code": "087",
+        "fips_county_code": "173",
+        "facilityCount": 1225,
+        "facility_count": 1225,
+        "glbl_county": {
+            "fips_county_code": "173",
+            "fips_county_desc": "Swain",
+            "lat_max": "35.71597664",
+            "lat_min": "35.25930294",
+            "long_max": "-83.13641566",
+            "long_min": "-83.9734849",
+            "region_id": "1",
+            "state_county_code": "87"
+        }
+    },
+    {
+        "bets_county_code": "088",
+        "fips_county_code": "175",
+        "facilityCount": 1298,
+        "facility_count": 1298,
+        "glbl_county": {
+            "fips_county_code": "175",
+            "fips_county_desc": "Transylvania",
+            "lat_max": "35.44283203",
+            "lat_min": "35.00763193",
+            "long_max": "-82.55463601",
+            "long_min": "-83.07698876",
+            "region_id": "1",
+            "state_county_code": "88"
+        }
+    },
+    {
+        "bets_county_code": "089",
+        "fips_county_code": "177",
+        "facilityCount": 159,
+        "facility_count": 159,
+        "glbl_county": {
+            "fips_county_code": "177",
+            "fips_county_desc": "Tyrrell",
+            "lat_max": "36.11892482",
+            "lat_min": "35.57799057",
+            "long_max": "-75.82015818",
+            "long_min": "-76.42605504",
+            "region_id": "6",
+            "state_county_code": "89"
+        }
+    },
+    {
+        "bets_county_code": "090",
+        "fips_county_code": "179",
+        "facilityCount": 3696,
+        "facility_count": 3696,
+        "glbl_county": {
+            "fips_county_code": "179",
+            "fips_county_desc": "Union",
+            "lat_max": "35.22850768",
+            "lat_min": "34.79403521",
+            "long_max": "-80.25712995",
+            "long_min": "-80.86031429",
+            "region_id": "3",
+            "state_county_code": "90"
+        }
+    },
+    {
+        "bets_county_code": "091",
+        "fips_county_code": "181",
+        "facilityCount": 1041,
+        "facility_count": 1041,
+        "glbl_county": {
+            "fips_county_code": "181",
+            "fips_county_desc": "Vance",
+            "lat_max": "36.56360804",
+            "lat_min": "36.14366069",
+            "long_max": "-78.25723439",
+            "long_min": "-78.53129698",
+            "region_id": "5",
+            "state_county_code": "91"
+        }
+    },
+    {
+        "bets_county_code": "092",
+        "fips_county_code": "183",
+        "facilityCount": 19595,
+        "facility_count": 19595,
+        "glbl_county": {
+            "fips_county_code": "183",
+            "fips_county_desc": "Wake",
+            "lat_max": "36.09629953",
+            "lat_min": "35.4992392",
+            "long_max": "-78.23491916",
+            "long_min": "-79.01537057",
+            "region_id": "5",
+            "state_county_code": "92"
+        }
+    },
+    {
+        "bets_county_code": "093",
+        "fips_county_code": "185",
+        "facilityCount": 440,
+        "facility_count": 440,
+        "glbl_county": {
+            "fips_county_code": "185",
+            "fips_county_desc": "Warren",
+            "lat_max": "36.56462889",
+            "lat_min": "36.18263501",
+            "long_max": "-77.87792791",
+            "long_min": "-78.34385955",
+            "region_id": "5",
+            "state_county_code": "93"
+        }
+    },
+    {
+        "bets_county_code": "094",
+        "fips_county_code": "187",
+        "facilityCount": 324,
+        "facility_count": 324,
+        "glbl_county": {
+            "fips_county_code": "187",
+            "fips_county_desc": "Washington",
+            "lat_max": "36.04644428",
+            "lat_min": "35.67805857",
+            "long_max": "-76.33344541",
+            "long_min": "-76.86173702",
+            "region_id": "6",
+            "state_county_code": "94"
+        }
+    },
+    {
+        "bets_county_code": "095",
+        "fips_county_code": "189",
+        "facilityCount": 2131,
+        "facility_count": 2131,
+        "glbl_county": {
+            "fips_county_code": "189",
+            "fips_county_desc": "Watauga",
+            "lat_max": "36.41133986",
+            "lat_min": "36.09137541",
+            "long_max": "-81.44095573",
+            "long_min": "-81.93822807",
+            "region_id": "8",
+            "state_county_code": "95"
+        }
+    },
+    {
+        "bets_county_code": "096",
+        "fips_county_code": "191",
+        "facilityCount": 3493,
+        "facility_count": 3493,
+        "glbl_county": {
+            "fips_county_code": "191",
+            "fips_county_desc": "Wayne",
+            "lat_max": "35.61763055",
+            "lat_min": "35.12631918",
+            "long_max": "-77.78018244",
+            "long_min": "-78.32669496",
+            "region_id": "6",
+            "state_county_code": "96"
+        }
+    },
+    {
+        "bets_county_code": "097",
+        "fips_county_code": "193",
+        "facilityCount": 1411,
+        "facility_count": 1411,
+        "glbl_county": {
+            "fips_county_code": "193",
+            "fips_county_desc": "Wilkes",
+            "lat_max": "36.45541905",
+            "lat_min": "35.97481777",
+            "long_max": "-80.84903351",
+            "long_min": "-81.56545221",
+            "region_id": "8",
+            "state_county_code": "97"
+        }
+    },
+    {
+        "bets_county_code": "098",
+        "fips_county_code": "195",
+        "facilityCount": 2233,
+        "facility_count": 2233,
+        "glbl_county": {
+            "fips_county_code": "195",
+            "fips_county_desc": "Wilson",
+            "lat_max": "35.88713046",
+            "lat_min": "35.55260538",
+            "long_max": "-77.64149493",
+            "long_min": "-78.21207211",
+            "region_id": "5",
+            "state_county_code": "98"
+        }
+    },
+    {
+        "bets_county_code": "099",
+        "fips_county_code": "197",
+        "facilityCount": 951,
+        "facility_count": 951,
+        "glbl_county": {
+            "fips_county_code": "197",
+            "fips_county_desc": "Yadkin",
+            "lat_max": "36.30765182",
+            "lat_min": "36.02649518",
+            "long_max": "-80.41190549",
+            "long_min": "-80.90219517",
+            "region_id": "8",
+            "state_county_code": "99"
+        }
+    },
+    {
+        "bets_county_code": "100",
+        "fips_county_code": "199",
+        "facilityCount": 347,
+        "facility_count": 347,
+        "glbl_county": {
+            "fips_county_code": "199",
+            "fips_county_desc": "Yancey",
+            "lat_max": "36.10449403",
+            "lat_min": "35.67881881",
+            "long_max": "-82.11347252",
+            "long_min": "-82.52544066",
+            "region_id": "1",
+            "state_county_code": "00"
+        }
+    }
+]

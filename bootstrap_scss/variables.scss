@@ -1,0 +1,47 @@
+// Colors
+$ncone : #092940 !default;
+$nctwo : #397aac !default;
+$ncthree:  #588023 !default;
+$ncfour: #072235 !default;
+
+$theme-colors: (
+  "primary": $ncone,
+  "secondary": $nctwo,
+  "special": $ncthree,
+  "darknc": $ncfour
+);
+
+// Body
+$body-bg: #fff;
+
+// Typography
+$font-family-sans-serif: "TransportNew",Helvetica,Arial,sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$text-color: $ncone;
+
+// Navbar
+$navbar-default-bg: #fff;
+
+// Buttons
+$btn-default-color: $text-color;
+
+// Panels
+$panel-default-heading-bg: #fff;
+
+// Brands
+$brand-primary: $ncone;
+$brand-secondary: $nctwo;
+$brand-special: $ncthree;
+$brand-darknc: $ncfour;
+$brand-info: #8eb4cb;
+$brand-success: #2ab27b;
+$brand-warning: #cbb956;
+$brand-danger: #bf5329;
+
+@font-face {
+  font-family: 'TransportNew';
+  src: url('/fonts/TransportNewLight_gdi.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/TransportNewLight_gdi.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/TransportNewLight_gdi.woff') format('woff')
+}
